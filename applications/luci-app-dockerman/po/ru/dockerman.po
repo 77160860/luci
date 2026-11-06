@@ -1,7 +1,8 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-05 14:58+0000\n"
-"Last-Translator: Deni Dgabiev <ghostcraft412@gmail.com>\n"
+"PO-Revision-Date: 2026-10-01 12:16+0000\n"
+"Last-Translator: SnIPeRSnIPeR "
+"<snipersniper@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/openwrt/"
 "luciapplicationsdockerman/ru/>\n"
 "Language: ru\n"
@@ -9,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 2026.7.1.dev0\n"
+"X-Generator: Weblate 2026.10.dev0\n"
 
 #: applications/luci-app-dockerman/luasrc/model/cbi/dockerman/newcontainer.lua:604
 msgid "A list of kernel capabilities to add to the container"
@@ -137,7 +138,7 @@ msgstr ""
 #: applications/luci-app-dockerman/luasrc/model/cbi/dockerman/newcontainer.lua:611
 #: applications/luci-app-dockerman/luasrc/model/cbi/dockerman/overview.lua:30
 msgid "CPUs"
-msgstr "Ядра ЦП"
+msgstr "Процессоры"
 
 #: applications/luci-app-dockerman/luasrc/view/dockerman/newcontainer_resolve.htm:91
 msgid "Cancel"
@@ -376,7 +377,7 @@ msgstr "Открыть порты (-p)"
 
 #: applications/luci-app-dockerman/luasrc/model/cbi/dockerman/configuration.lua:60
 msgid "Fatal"
-msgstr "Фатальный"
+msgstr "Критические ошибки"
 
 #: applications/luci-app-dockerman/luasrc/view/dockerman/container.htm:6
 msgid "File"
@@ -559,7 +560,7 @@ msgstr "MAC VLAN"
 #: applications/luci-app-dockerman/luasrc/model/cbi/dockerman/container.lua:581
 #: applications/luci-app-dockerman/luasrc/model/cbi/dockerman/newcontainer.lua:629
 msgid "Memory"
-msgstr "Оперативная память"
+msgstr "Память"
 
 #: applications/luci-app-dockerman/luasrc/model/cbi/dockerman/container.lua:774
 msgid "Memory Usage"
@@ -663,7 +664,7 @@ msgstr "На этой странице можно изменить параме�
 
 #: applications/luci-app-dockerman/luasrc/model/cbi/dockerman/newnetwork.lua:72
 msgid "Options"
-msgstr "Опции"
+msgstr "Параметры"
 
 #: applications/luci-app-dockerman/luasrc/model/cbi/dockerman/newnetwork.lua:37
 msgid "Overlay network"
@@ -824,7 +825,7 @@ msgstr ""
 #: applications/luci-app-dockerman/luasrc/model/cbi/dockerman/container.lua:218
 #: applications/luci-app-dockerman/luasrc/model/cbi/dockerman/containers.lua:193
 msgid "Start"
-msgstr "Начало"
+msgstr "Запустить"
 
 #: applications/luci-app-dockerman/luasrc/model/cbi/dockerman/container.lua:311
 msgid "Start Time"
@@ -930,7 +931,7 @@ msgstr "UID"
 #: applications/luci-app-dockerman/luasrc/model/cbi/dockerman/container.lua:289
 #: applications/luci-app-dockerman/luasrc/model/cbi/dockerman/container.lua:328
 msgid "Update"
-msgstr "Применить"
+msgstr "Обновить"
 
 #: applications/luci-app-dockerman/luasrc/model/cbi/dockerman/container.lua:254
 msgid "Upgrade"
